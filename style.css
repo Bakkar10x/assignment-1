@@ -1,0 +1,236 @@
+*{
+    margin: 0px;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Work Sans', sans-serif;
+padding: 0px;
+
+}
+.header{
+    background-image: url(images/banner/banner2.png);
+    height: 809px;
+    width: 1600;
+
+}
+.header-title{
+    width: 525px;
+    height: 228px;
+    font-size: 65px;
+    font-weight: 700;
+    text-align: right;
+    vertical-align: top;
+    padding-top: 216px;
+    padding-left: 845px;
+    
+}
+.header-describtion{
+    color: #444343;
+    height: 78px;
+    width: 494px;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: right;
+    padding-left: 876px;
+    margin-top: 24px;
+    vertical-align: top;
+}
+.header-button{
+    width: 160px;
+    height: 64px;
+    margin-top: 32px;
+    background-color: #F15B22;
+    border: none;
+    margin-left: 1210px;
+
+}
+.button-link{
+    color: #FFFFFF;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+}
+.my-failures{
+    background-image: url(images/person.png);
+    background-repeat: no-repeat;
+    height: 724px;
+    width: 1063px;
+    margin-left: 206px;
+    margin-top: 118px;
+
+}
+.section-title{
+    width: 288px;
+    height: 94px;
+    font-weight: 700;
+    font-size: 40px;
+    padding-top: 377px;
+    padding-left: 650px;
+
+}
+.section-description{
+    color: #444343;
+    width: 416px;
+    height: 104px;
+    font-weight: 400px;
+    font-size: 16px;
+    text-align: left;
+    padding-left: 650px;
+    margin-top: 16px;
+}
+.list{
+    color: #444343;
+    width: 349px;
+    height: 162px;
+    font-weight: 400px;
+    font-size: 16px;
+    text-align: left;
+    padding-left: 670px;
+    list-style-type: none;
+}
+.checkmark{
+    color:  #16D887;
+    margin-right: 10px;
+}
+.my-plan{
+    height: 299px;
+    width: 1090px;
+    margin-top: 130px;
+    margin-left: 215px;
+    padding-right: px;
+    text-align: right;
+}
+.title{
+    height: 47px;
+    width: 179px;
+    font-weight: 700;
+    font-size: 40px;
+    margin-left: 450px;
+}
+.icon{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.icom{
+    margin-right: 35px;
+}
+.second-t{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    font-size: 25px;
+    font-weight: 700;
+}
+.iweb{
+    margin-left: 50px;
+}
+.title-java{
+    margin-right: 35px;
+}
+.title-smoke{
+    margin-right: 15px;
+    padding-right: 20px;
+}
+
+.short-d{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 16px;
+    color:#737272;
+    font-size: 25px;
+    font-weight: 500;
+    margin-left: 30px;
+}
+.i-want-end{
+    margin-left: 35px;
+}
+.positive{
+    height: 300px;
+    width: 1140px;
+    background-image: url(images/gradient3.png),url(images/watch.png);
+    margin: 124px 230px 130px;
+    border-radius: 10px;
+    
+}
+.positive-title{
+    color: #FFFFFF;
+    height: 94px;
+    width: 459px;
+    font-size: 40px;
+    font-weight: 700;
+    padding-top: 59px;
+    margin-left: 64px;
+    text-align: left;
+}
+.button{
+    height: 64px;
+    width: 160px;
+    border-radius: 5px;
+    margin-left: 64px;
+    margin-top: 24px;
+    border: none;
+}
+.button a{
+    color:  #F15B22;
+    text-decoration: none; 
+    font-size: 20px;
+    font-weight: 600;
+}
+.footer{
+    color: #FFFFFF;
+    height: 577px;
+    width: 1600px;
+    background-color: #1E1E1E;
+    text-align: left;
+}
+.future{
+    font-size: 45px;
+    font-weight: 700;
+    padding-top: 130px;
+    margin-left: 230px;
+}
+
+.footer-des{
+    height: 78px;
+    width: 485px;
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 16px;
+    margin-left: 230px;
+}
+.footer-icon{
+    height: 44px;
+    width: 175px;
+    margin-left: 230px;
+}
+.header-form{
+    color: #FFFFFF;
+    height: 204px;
+    width: 325px;
+    margin-left: 1046px;
+    margin-top: -365px;
+}
+.subscribe{
+    font-size: 25px;
+    font-weight: 600;
+}
+div input{
+    color: #FFFFFF;;
+    height: 64px;
+    width: 325px;
+    background-color: #1E1E1E;
+    border: none;
+    border: 1px solid #FFFFFF;
+    border-radius: 5px;
+    text-align:left;
+}
+.subscribe-button{
+    color: #F15B22;
+    height: 64px;
+    width: 170px;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 16px;
+    border-radius: 8px;
+
+}
